@@ -1,0 +1,26 @@
+
+disktesting/outputs
+disktesting/disk_test.bin
+
+# Compiled Python files
+*.py[cod]     # Will match .pyc, .pyo and .pyd files.
+__pycache__/  # Exclude the whole folder
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Backups
+*.un~
+*~
+
+.gdb_history
+
